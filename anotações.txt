@@ -1,0 +1,1 @@
+parei fazendo o filtro lamentavel e ainda falta arranjar uma forma de adicionar sem renderizar criando um contador

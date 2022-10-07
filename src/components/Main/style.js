@@ -11,8 +11,11 @@ const MainContainer = styled.main`
   @media (min-width: 1024px) {
     display: flex;
     flex-direction: row;
-    width: 1400px;
     margin: 15px auto;
+  }
+
+  @media (min-width: 1400px) {
+    width: 1400px;
   }
 `;
 
